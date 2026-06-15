@@ -183,6 +183,10 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**Wisp**](https://github.com/wispcode/wisp) - Modular, no-build CSS framework that uses CSS3 variables and sensible defaults.  
+  ![](https://img.shields.io/github/stars/wispcode/wisp-css.svg?style=social&label=Star)
+  [Repo](https://github.com/wispcode/wisp-css)
+  | #CSS
 
 ## Material Design
 
